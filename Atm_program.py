@@ -21,7 +21,7 @@ class Atm:
         elif n==4:
             self.checkBalance()
         else:
-            return 
+            return
         
     
     def createPin(self):
